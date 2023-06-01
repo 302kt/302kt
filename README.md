@@ -1,15 +1,19 @@
-<h1 align="center">Hi there / Oi Pessoal 👋 <3</h1>
-<h3 align="center">Eu sou a Katarina e aqui você vai me conhecer um pouco mais :D</h1> <p>
+<div align=center>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cabin&size=34&pause=1000&color=A041DAD7&background=1700FF00&center=true&vCenter=true&width=435&lines=Ol%C3%A1+eu+sou+a+Katarina!;%C3%89+um+prazer+te+ter+aqui+%3A)" alt="Typing SVG" /></a>
+  <div>
+  
   <div>
   
   ![302kt's GitHub stats](https://github-readme-stats.vercel.app/api?username=302kt&show_icons=true&theme=synthwave)
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=302kt&layout=compact&langs_count=16&theme=synthwave"/>
 </div>
 <br>
+<div>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cabin&size=28&pause=10000000000000&color=A041DAD7&background=1700FF00&center=true&vCenter=true&width=435&lines=Conhe%C3%A7a+as+t%C3%A9cnologias+que+domino%3A" alt="Typing SVG" /></a>
+ </div> 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="code.gif">
-    <h1 align="center">Melhores Tecnologias <3</h1>
+    <img align="left" height="250" alt="coding-time" src="code.gif"
       <img align="center" height="30" width="40" alt="java-icon"  src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
       <img align="center" height="30" width="40" alt="git-icon"  src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
       <img align="center" height="30" width="40" alt="mysql-icon"  src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg">
